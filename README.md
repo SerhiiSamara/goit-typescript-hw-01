@@ -1,1 +1,1 @@
-# ts_courses
+# goit-typescript-hw-01
